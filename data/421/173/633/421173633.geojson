@@ -1,0 +1,105 @@
+{
+  "id": 421173633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.01667,12.51667,-70.01667,12.51667",
+    "geom:latitude":12.51667,
+    "geom:longitude":-70.01667,
+    "iso:country":"AW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:arg_x_preferred":[
+        "Cuman\u00e1"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u043e\u0440\u0430\u0434 \u041a\u0443\u043c\u0430\u043d\u0430"
+    ],
+    "name:bre_x_preferred":[
+        "Cuman\u00e1"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0443\u043c\u0430\u043d\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Cuman\u00e1"
+    ],
+    "name:deu_x_preferred":[
+        "Cuman\u00e1"
+    ],
+    "name:epo_x_preferred":[
+        "Cuman\u00e1"
+    ],
+    "name:eus_x_preferred":[
+        "Cuman\u00e1"
+    ],
+    "name:fin_x_preferred":[
+        "Cuman\u00e1"
+    ],
+    "name:spa_x_preferred":[
+        "Cuman\u00e1"
+    ],
+    "qs:gn_country":"AW",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":3577228,
+    "qs:gn_pop":0,
+    "qs:name":"Cuman\u00e1",
+    "qs:name_adm0":"Aruba",
+    "qs:name_adm1":null,
+    "qs:photos":271,
+    "qs:photos_1k":55,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":271,
+    "qs:photos_sr":5,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":294661,
+    "qs:woe_adm0":23424736,
+    "qs:woe_id":56043,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632295,
+        85667489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3577228,
+        "gp:id":56043,
+        "qs:id":294661
+    },
+    "wof:country":"AW",
+    "wof:created":1459008992,
+    "wof:geomhash":"2355c76945bb6eb7219d445cd5858986",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632295,
+            "locality_id":-1,
+            "neighbourhood_id":421173633,
+            "region_id":85667489
+        }
+    ],
+    "wof:id":421173633,
+    "wof:lastmodified":1531858394,
+    "wof:name":"Cuman\u00e1",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-aw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.01667,
+    12.51667,
+    -70.01667,
+    12.51667
+],
+  "geometry": {"coordinates":[-70.01667,12.51667],"type":"Point"}
+}

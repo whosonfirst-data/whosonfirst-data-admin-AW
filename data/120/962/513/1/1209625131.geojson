@@ -1,0 +1,62 @@
+{
+  "id": 1209625131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.92978,12.44202,-69.92978,12.44202",
+    "geom:latitude":12.44202,
+    "geom:longitude":-69.92978,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Cura Cabai",
+    "gn:country_code":"AW",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3577225,
+    "gn:latitude":12.44202,
+    "gn:longitude":-69.92978,
+    "gn:modification_date":"2017-06-12",
+    "gn:name":"Cura Cabai",
+    "gn:population":0,
+    "gn:timezone":"America/Aruba",
+    "iso:country":"AW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3577225,
+        "wk:page":"Cura_Cabai"
+    },
+    "wof:country":"AW",
+    "wof:geomhash":"2d15a13917558543da85ea5c0aeac193",
+    "wof:hierarchy":[
+        {
+            "country_id":85632295,
+            "locality_id":1209625131
+        }
+    ],
+    "wof:id":1209625131,
+    "wof:lastmodified":1537486499,
+    "wof:name":"Cura Cabai",
+    "wof:parent_id":85632295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-aw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.92978000000001,
+    12.44202,
+    -69.92978000000001,
+    12.44202
+],
+  "geometry": {"coordinates":[-69.92978000000001,12.44202],"type":"Point"}
+}

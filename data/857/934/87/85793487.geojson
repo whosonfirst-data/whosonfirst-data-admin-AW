@@ -1,0 +1,105 @@
+{
+  "id": 85793487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":64835336.676092,
+    "geom:bbox":"-70.029547,12.515128,-70.029547,12.515128",
+    "geom:latitude":12.515128,
+    "geom:longitude":-70.029547,
+    "gn:latitude":12.51667,
+    "gn:longitude":-70.01667,
+    "iso:country":"AW",
+    "lbl:latitude":12.515128,
+    "lbl:longitude":-70.029547,
+    "mps:latitude":12.514357,
+    "mps:longitude":-70.023191,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:nld_x_preferred":[
+        "Barcelona"
+    ],
+    "name:spa_x_preferred":[
+        "Barcelona"
+    ],
+    "name:unk_x_variant":[
+        "Barcelona"
+    ],
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":0,
+    "qs:gn_namadm1":"00",
+    "qs:gn_name":"Barcelona",
+    "qs:local_max":3618,
+    "qs:local_sum":3618,
+    "qs:localhoods":1,
+    "qs:name":"Barcelona",
+    "qs:name_adm0":"Aruba",
+    "qs:name_local":"Oranjestad",
+    "qs:photo_max":459,
+    "qs:photo_sum":3618,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":125,
+    "qs:woe_adm0":23424736,
+    "qs:woe_adm1":0,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":56069,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":36,
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3577272,
+        "gp:id":56025,
+        "qs:id":240921,
+        "qs_pg:id":240921,
+        "wd:id":"Q4859839",
+        "wk:page":"Barcelona, Aruba"
+    },
+    "wof:country":"AW",
+    "wof:geomhash":"45d7719848e29f20a3f836c7cf9d7f5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85793487,
+            "region_id":-1
+        }
+    ],
+    "wof:id":85793487,
+    "wof:lang":[
+        "dut"
+    ],
+    "wof:lastmodified":1531861376,
+    "wof:name":"Barcelona",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-aw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.029547,
+    12.515128,
+    -70.029547,
+    12.515128
+],
+  "geometry": {"coordinates":[-70.02954699999999,12.515128],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1309821707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.01667,12.53333,-70.01667,12.53333",
+    "geom:latitude":12.53333,
+    "geom:longitude":-70.01667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Catiri",
+    "gn:country_code":"AW",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3577241,
+    "gn:latitude":12.53333,
+    "gn:longitude":-70.01667,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Catiri",
+    "gn:population":0,
+    "gn:timezone":"America/Aruba",
+    "iso:country":"AW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632295,
+        85667489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3577241,
+        "wk:page":"Catiri"
+    },
+    "wof:country":"AW",
+    "wof:geomhash":"2d5a5bfa59c1a6a1705236469e70c003",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632295,
+            "locality_id":1309821707,
+            "region_id":85667489
+        }
+    ],
+    "wof:id":1309821707,
+    "wof:lastmodified":1537486500,
+    "wof:name":"Catiri",
+    "wof:parent_id":85667489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-aw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.01666999999999,
+    12.53333,
+    -70.01666999999999,
+    12.53333
+],
+  "geometry": {"coordinates":[-70.01666999999999,12.53333],"type":"Point"}
+}

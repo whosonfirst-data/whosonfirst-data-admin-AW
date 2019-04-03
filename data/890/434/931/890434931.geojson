@@ -1,0 +1,75 @@
+{
+  "id": 890434931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.06667,12.61667,-70.06667,12.61667",
+    "geom:latitude":12.61667,
+    "geom:longitude":-70.06667,
+    "gn:country":"AW",
+    "gn:fcode":"PPL",
+    "gn:pop":14649,
+    "iso:country":"AW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Arasji"
+    ],
+    "name:eng_x_preferred":[
+        "Arasji"
+    ],
+    "name:swe_x_preferred":[
+        "Arasji"
+    ],
+    "name:unk_x_variant":[
+        "Arashi"
+    ],
+    "qs:name":"Arasji",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":32,
+    "wof:belongsto":[
+        85632295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3577282,
+        "gp:id":56121,
+        "qs:id":149031,
+        "wd:id":"Q2122561",
+        "wk:page":"Arasji"
+    },
+    "wof:country":"AW",
+    "wof:created":1469052045,
+    "wof:geomhash":"6b19b6fe9379b2248ccc1b4d79addcec",
+    "wof:hierarchy":[
+        {
+            "country_id":85632295,
+            "locality_id":890434931
+        }
+    ],
+    "wof:id":890434931,
+    "wof:lastmodified":1527792942,
+    "wof:name":"Arasji",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":14649,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-aw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.06667,
+    12.61667,
+    -70.06667,
+    12.61667
+],
+  "geometry": {"coordinates":[-70.06667,12.61667],"type":"Point"}
+}

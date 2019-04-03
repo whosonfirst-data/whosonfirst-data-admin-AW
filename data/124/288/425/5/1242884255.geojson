@@ -1,0 +1,66 @@
+{
+  "id": 1242884255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.0,12.53333,-70.0,12.53333",
+    "geom:latitude":12.53333,
+    "geom:longitude":-70.0,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Shiribana",
+    "gn:country_code":"AW",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3577092,
+    "gn:latitude":12.53333,
+    "gn:longitude":-70.0,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Shiribana",
+    "gn:population":0,
+    "gn:timezone":"America/Aruba",
+    "iso:country":"AW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632295,
+        85667489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3577092,
+        "wk:page":"Shiribana"
+    },
+    "wof:country":"AW",
+    "wof:geomhash":"ed1190a849e01810a5a9facc4620d933",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632295,
+            "locality_id":1242884255,
+            "region_id":85667489
+        }
+    ],
+    "wof:id":1242884255,
+    "wof:lastmodified":1537486498,
+    "wof:name":"Shiribana",
+    "wof:parent_id":85667489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-aw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.0,
+    12.53333,
+    -70.0,
+    12.53333
+],
+  "geometry": {"coordinates":[-70.0,12.53333],"type":"Point"}
+}

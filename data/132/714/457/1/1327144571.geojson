@@ -1,0 +1,70 @@
+{
+  "id": 1327144571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.9,12.43333,-69.9,12.43333",
+    "geom:latitude":12.43333,
+    "geom:longitude":-69.9,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sint Nicolaas",
+    "gn:country_code":"AW",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3577089,
+    "gn:latitude":12.43333,
+    "gn:longitude":-69.9,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sint Nicolaas",
+    "gn:population":0,
+    "gn:timezone":"America/Aruba",
+    "iso:country":"AW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Nicolas",
+        "Sint Nicolaas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632295,
+        85667489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3577089,
+        "wk:page":"San_Nicolaas"
+    },
+    "wof:country":"AW",
+    "wof:geomhash":"d39848d6b82b99fe47bcff3d88e65719",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632295,
+            "locality_id":1327144571,
+            "region_id":85667489
+        }
+    ],
+    "wof:id":1327144571,
+    "wof:lastmodified":1537585117,
+    "wof:name":"Sint Nicolaas",
+    "wof:parent_id":85667489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-aw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.9,
+    12.43333,
+    -69.9,
+    12.43333
+],
+  "geometry": {"coordinates":[-69.90000000000001,12.43333],"type":"Point"}
+}
