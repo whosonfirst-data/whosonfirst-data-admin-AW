@@ -16,9 +16,6 @@
     "name:ceb_x_preferred":[
         "Cashero"
     ],
-    "name:dut_x_preferred":[
-        "Cashero"
-    ],
     "name:eng_x_preferred":[
         "Cashero"
     ],
@@ -71,7 +68,7 @@
         }
     ],
     "wof:id":421170955,
-    "wof:lastmodified":1527716458,
+    "wof:lastmodified":1561828823,
     "wof:name":"Cashero",
     "wof:parent_id":85667489,
     "wof:placetype":"locality",
