@@ -19,9 +19,6 @@
     "name:ceb_x_preferred":[
         "Babijn"
     ],
-    "name:dut_x_preferred":[
-        "Babijn"
-    ],
     "name:eng_x_preferred":[
         "Babijn"
     ],
@@ -81,7 +78,7 @@
         }
     ],
     "wof:id":421201253,
-    "wof:lastmodified":1534379233,
+    "wof:lastmodified":1561828823,
     "wof:name":"Babijn",
     "wof:parent_id":85667489,
     "wof:placetype":"locality",
