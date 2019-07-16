@@ -15,6 +15,9 @@
     "iso:country":"AW",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Arasji"
+    ],
     "name:eng_x_preferred":[
         "Arasji"
     ],
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":890434931,
-    "wof:lastmodified":1561828824,
+    "wof:lastmodified":1563254637,
     "wof:name":"Arasji",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
