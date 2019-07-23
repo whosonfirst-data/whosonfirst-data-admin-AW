@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":64835336.676092,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.029547,12.515128,-70.029547,12.515128",
     "geom:latitude":12.515128,
     "geom:longitude":-70.029547,
@@ -25,6 +25,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "Barcelona"
+    ],
     "name:nld_x_preferred":[
         "Barcelona"
     ],
@@ -86,7 +89,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1531861376,
+    "wof:lastmodified":1563254620,
     "wof:name":"Barcelona",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
