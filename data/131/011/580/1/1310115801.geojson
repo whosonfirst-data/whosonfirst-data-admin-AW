@@ -25,6 +25,15 @@
     "iso:country":"AW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Moco"
+    ],
+    "name:spa_x_preferred":[
+        "Moco"
+    ],
+    "name:swe_x_preferred":[
+        "Moco"
+    ],
     "name:und_x_variant":[
         "Moko",
         "Moco"
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1310115801,
-    "wof:lastmodified":1537585118,
+    "wof:lastmodified":1564107393,
     "wof:name":"Moco",
     "wof:parent_id":85667489,
     "wof:placetype":"locality",
