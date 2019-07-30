@@ -25,6 +25,51 @@
     "iso:country":"AW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u042f\u043c\u0430\u043d\u043e\u0442\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Ceru Jamanota"
+    ],
+    "name:ces_x_preferred":[
+        "Jamanota"
+    ],
+    "name:deu_x_preferred":[
+        "Jamanota"
+    ],
+    "name:fra_x_preferred":[
+        "Mont Jamanota"
+    ],
+    "name:fry_x_preferred":[
+        "Jamanota"
+    ],
+    "name:lit_x_preferred":[
+        "Jamanota"
+    ],
+    "name:nld_x_preferred":[
+        "Jamanota"
+    ],
+    "name:nno_x_preferred":[
+        "Jamanota"
+    ],
+    "name:pap_x_preferred":[
+        "Jamanota"
+    ],
+    "name:pol_x_preferred":[
+        "Jamanota"
+    ],
+    "name:rus_x_preferred":[
+        "\u042f\u043c\u0430\u043d\u043e\u0442\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Monte Jamanota"
+    ],
+    "name:swe_x_preferred":[
+        "Sero Jamanota"
+    ],
+    "name:ukr_x_preferred":[
+        "\u042f\u043c\u0430\u043d\u043e\u0442\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -47,7 +92,7 @@
         }
     ],
     "wof:id":1260090223,
-    "wof:lastmodified":1537486499,
+    "wof:lastmodified":1564107392,
     "wof:name":"Jamanota",
     "wof:parent_id":85667489,
     "wof:placetype":"locality",

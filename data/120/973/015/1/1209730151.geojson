@@ -26,6 +26,15 @@
     "iso:country":"AW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Pos Chikito"
+    ],
+    "name:deu_x_preferred":[
+        "Pos Chikito"
+    ],
+    "name:pol_x_preferred":[
+        "Pos Chiquito"
+    ],
     "name:und_x_variant":[
         "Pos Chikitu",
         "Pos Chiquito",
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1209730151,
-    "wof:lastmodified":1537585118,
+    "wof:lastmodified":1564107391,
     "wof:name":"Pos Chikito",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

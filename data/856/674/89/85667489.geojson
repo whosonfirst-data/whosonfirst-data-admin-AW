@@ -48,6 +48,15 @@
     "name:arz_x_preferred":[
         "\u0627\u0631\u0648\u0628\u0627"
     ],
+    "name:asm_x_preferred":[
+        "\u0986\u09f0\u09c1\u09ac\u09be"
+    ],
+    "name:ast_x_preferred":[
+        "Aruba"
+    ],
+    "name:azb_x_preferred":[
+        "\u0622\u0631\u0648\u0628\u0627"
+    ],
     "name:aze_x_preferred":[
         "Aruba"
     ],
@@ -58,6 +67,9 @@
         "Aruba"
     ],
     "name:bar_x_preferred":[
+        "Aruba"
+    ],
+    "name:bcl_x_preferred":[
         "Aruba"
     ],
     "name:bel_x_preferred":[
@@ -82,6 +94,9 @@
         "\u0410\u0440\u0443\u0431\u0430"
     ],
     "name:cat_x_preferred":[
+        "Aruba"
+    ],
+    "name:cdo_x_preferred":[
         "Aruba"
     ],
     "name:ceb_x_preferred":[
@@ -128,6 +143,9 @@
     ],
     "name:dzo_x_preferred":[
         "\u0f68\u0f0b\u0f62\u0f74\u0f0b\u0f56\u0f0d"
+    ],
+    "name:dzo_x_variant":[
+        "\u0f68\u0f0b\u0f62\u0f74\u0f0b\u0f56\u0f0b"
     ],
     "name:ell_x_preferred":[
         "\u0391\u03c1\u03bf\u03cd\u03bc\u03c0\u03b1"
@@ -195,6 +213,12 @@
     ],
     "name:guj_x_preferred":[
         "\u0a85\u0ab0\u0ac1\u0aac\u0abe"
+    ],
+    "name:hak_x_preferred":[
+        "Aruba"
+    ],
+    "name:hat_x_preferred":[
+        "Aruba"
     ],
     "name:hau_x_preferred":[
         "Aruba"
@@ -281,6 +305,9 @@
     "name:kur_x_preferred":[
         "\u0626\u0627\u0631\u0648\u0648\u0628\u0627"
     ],
+    "name:kur_x_variant":[
+        "Ar\u00fbba"
+    ],
     "name:lad_x_preferred":[
         "Aruba"
     ],
@@ -291,6 +318,9 @@
         "Aruba"
     ],
     "name:lav_x_preferred":[
+        "Aruba"
+    ],
+    "name:lfn_x_preferred":[
         "Aruba"
     ],
     "name:lij_x_preferred":[
@@ -343,6 +373,12 @@
     ],
     "name:msa_x_preferred":[
         "Aruba"
+    ],
+    "name:myv_x_preferred":[
+        "\u0410\u0440\u0443\u0431\u0430"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0622\u0631\u0648\u0628\u0627"
     ],
     "name:nan_x_preferred":[
         "Aruba"
@@ -610,7 +646,7 @@
         "nld",
         "pap"
     ],
-    "wof:lastmodified":1561828822,
+    "wof:lastmodified":1564107387,
     "wof:name":"Aruba",
     "wof:parent_id":85632295,
     "wof:placetype":"region",
