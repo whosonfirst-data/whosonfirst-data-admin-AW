@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "autonomous colony"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AA"
+    ],
     "lbl:latitude":12.517399,
     "lbl:longitude":-69.972795,
     "mps:latitude":12.517399,
@@ -646,7 +649,7 @@
         "nld",
         "pap"
     ],
-    "wof:lastmodified":1564107387,
+    "wof:lastmodified":1565652482,
     "wof:name":"Aruba",
     "wof:parent_id":85632295,
     "wof:placetype":"region",

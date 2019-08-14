@@ -14,6 +14,9 @@
     "itu:country_code":[
         "297"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AW"
+    ],
     "lbl:latitude":12.517399,
     "lbl:longitude":-69.972795,
     "mps:latitude":12.517399,
@@ -765,10 +768,6 @@
         }
     ],
     "wof:id":85632295,
-    "wof:lang":[
-        "nld",
-        "pap"
-    ],
     "wof:lang_x_official":[
         "nld",
         "pap"
@@ -779,7 +778,7 @@
         "eng",
         "spa"
     ],
-    "wof:lastmodified":1563254625,
+    "wof:lastmodified":1565652482,
     "wof:name":"Aruba",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
