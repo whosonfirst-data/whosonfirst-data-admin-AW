@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":12.517399,
     "lbl:longitude":-69.972795,
+    "lbl:min_zoom":8.0,
     "mps:latitude":12.517399,
     "mps:longitude":-69.972795,
     "mz:hierarchy_label":0,
@@ -545,9 +546,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u0440\u0443\u0431\u0430"
     ],
-    "name:und_x_preferred":[
-        "Ar\u00faba"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u0631\u0648\u0628\u0627"
     ],
@@ -604,9 +602,9 @@
     "qs:source":"Natural Earth",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-09-29",
+    "src:population_date":"2010-09-29",
     "statoids:area_km":"193",
     "statoids:area_mi":"75",
     "statoids:as_of_date":"2010-09-29",
@@ -649,11 +647,10 @@
         "nld",
         "pap"
     ],
-    "wof:lastmodified":1565652482,
+    "wof:lastmodified":1566603641,
     "wof:name":"Aruba",
     "wof:parent_id":85632295,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"autonomous colony",
     "wof:population":101484,
     "wof:population_rank":9,

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Aruba",
     "iso:country":"AW",
+    "lbl:bbox":"-70.00333,12.49667,-69.96333,12.53667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Pavia"
     ],
@@ -256,7 +260,7 @@
         }
     ],
     "wof:id":1259894573,
-    "wof:lastmodified":1564107401,
+    "wof:lastmodified":1566603647,
     "wof:name":"Pavia",
     "wof:parent_id":85667489,
     "wof:placetype":"locality",

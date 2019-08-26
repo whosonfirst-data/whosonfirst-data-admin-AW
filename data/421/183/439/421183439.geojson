@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-69.885578,12.4524925,-69.885578,12.4524925",
     "geom:latitude":12.452492,
     "geom:longitude":-69.885578,
     "iso:country":"AW",
+    "lbl:bbox":"-69.905578,12.4324925,-69.865578,12.4724925",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -38,11 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56087,
-        "qs:id":976944
+        "qs_pg:id":976944
     },
     "wof:country":"AW",
     "wof:created":1459009369,
-    "wof:geomhash":"e1cacd7229fe052f522d799cddfcd5e4",
+    "wof:geomhash":"977eaf8fa786e04ec3a1f970d040521f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":421183439,
-    "wof:lastmodified":1466635857,
+    "wof:lastmodified":1566603646,
     "wof:name":"Rooi Congo",
     "wof:parent_id":85667489,
     "wof:placetype":"locality",
