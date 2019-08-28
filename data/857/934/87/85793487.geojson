@@ -12,8 +12,10 @@
     "gn:latitude":12.51667,
     "gn:longitude":-70.01667,
     "iso:country":"AW",
+    "lbl:bbox":"-70.034547,12.510128,-70.024547,12.520128",
     "lbl:latitude":12.515128,
     "lbl:longitude":-70.029547,
+    "lbl:max_zoom":18.0,
     "mps:latitude":12.514357,
     "mps:longitude":-70.023191,
     "mz:hierarchy_label":0,
@@ -32,9 +34,6 @@
         "Barcelona"
     ],
     "name:spa_x_preferred":[
-        "Barcelona"
-    ],
-    "name:unk_x_variant":[
         "Barcelona"
     ],
     "qs:gn_fcode":"PPLX",
@@ -62,14 +61,13 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":36,
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3577272,
         "gp:id":56025,
-        "qs:id":240921,
         "qs_pg:id":240921,
         "wd:id":"Q4859839",
         "wk:page":"Barcelona, Aruba"
@@ -89,7 +87,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563254620,
+    "wof:lastmodified":1566603641,
     "wof:name":"Barcelona",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

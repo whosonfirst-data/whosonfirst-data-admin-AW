@@ -10,8 +10,11 @@
     "geom:latitude":12.51667,
     "geom:longitude":-70.01667,
     "iso:country":"AW",
+    "lbl:bbox":"-70.02167,12.51167,-70.01167,12.52167",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:arg_x_preferred":[
         "Cuman\u00e1"
@@ -155,7 +158,7 @@
     "wof:concordances":{
         "gn:id":3577228,
         "gp:id":56043,
-        "qs:id":294661
+        "qs_pg:id":294661
     },
     "wof:country":"AW",
     "wof:created":1459008992,
@@ -170,7 +173,7 @@
         }
     ],
     "wof:id":421173633,
-    "wof:lastmodified":1564107397,
+    "wof:lastmodified":1566603645,
     "wof:name":"Cuman\u00e1",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

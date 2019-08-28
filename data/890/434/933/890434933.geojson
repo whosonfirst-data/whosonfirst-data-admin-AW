@@ -11,10 +11,14 @@
     "geom:longitude":-69.95,
     "gn:country":"AW",
     "gn:fcode":"PPLL",
-    "gn:pop":29442,
+    "gn:population":29442,
     "iso:country":"AW",
+    "lbl:bbox":"-69.97,12.49667,-69.93,12.53667",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ceb_x_preferred":[
         "Angochi"
     ],
@@ -51,7 +55,7 @@
     "wof:concordances":{
         "gn:id":3577284,
         "gp:id":56021,
-        "qs:id":149032,
+        "qs_pg:id":149032,
         "wd:id":"Q2469135",
         "wk:page":"Angochi"
     },
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":890434933,
-    "wof:lastmodified":1563254637,
+    "wof:lastmodified":1566603646,
     "wof:name":"Angochi",
     "wof:parent_id":85667489,
     "wof:placetype":"locality",

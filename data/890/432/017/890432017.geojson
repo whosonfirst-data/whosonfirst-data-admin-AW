@@ -11,13 +11,16 @@
     "geom:longitude":-70.009653,
     "gn:country":"AW",
     "gn:fcode":"PPLC",
-    "gn:pop":29998,
+    "gn:population":29998,
     "iso:country":"AW",
     "lbl:latitude":12.52398,
     "lbl:longitude":-70.02703,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
         "Oranjestad"
     ],
@@ -269,7 +272,7 @@
     "wof:concordances":{
         "gn:id":3577154,
         "gp:id":56057,
-        "qs:id":583509,
+        "qs_pg:id":583509,
         "wd:id":"Q131243",
         "wk:page":"Oranjestad"
     },
@@ -285,7 +288,7 @@
         }
     ],
     "wof:id":890432017,
-    "wof:lastmodified":1563254638,
+    "wof:lastmodified":1566603646,
     "wof:name":"Oranjestad",
     "wof:parent_id":85667489,
     "wof:placetype":"locality",

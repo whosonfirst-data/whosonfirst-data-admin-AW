@@ -10,8 +10,12 @@
     "geom:latitude":12.5184,
     "geom:longitude":-69.981167,
     "iso:country":"AW",
+    "lbl:bbox":"-70.001167,12.4984,-69.961167,12.5384",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Cashero"
@@ -53,7 +57,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56037,
-        "qs:id":1198206,
+        "qs_pg:id":1198206,
         "wd:id":"Q303334"
     },
     "wof:country":"AW",
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":421170955,
-    "wof:lastmodified":1561828823,
+    "wof:lastmodified":1566603645,
     "wof:name":"Cashero",
     "wof:parent_id":85667489,
     "wof:placetype":"locality",
