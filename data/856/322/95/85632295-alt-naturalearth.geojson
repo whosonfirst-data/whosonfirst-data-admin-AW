@@ -1,10 +1,12 @@
 {
   "id": 85632295,
   "type": "Feature",
-  "properties": {"wof:repo":"whosonfirst-data-admin-aw",
+  "properties": {
+    "src:alt_label":"naturalearth",
     "src:geom":"naturalearth",
     "wof:geomhash":"63ecb5dcae598ed20467878aa52dca7e",
-    "wof:id":85632295
+    "wof:id":85632295,
+    "wof:repo":"whosonfirst-data-admin-aw"
 },
   "bbox": [
     -70.062408,
