@@ -278,6 +278,9 @@
     },
     "wof:country":"AW",
     "wof:created":1469051925,
+    "wof:geom_alt":[
+        "unknown"
+    ],
     "wof:geomhash":"9e992731073eeb863a69843e8af71292",
     "wof:hierarchy":[
         {
@@ -288,7 +291,7 @@
         }
     ],
     "wof:id":890432017,
-    "wof:lastmodified":1566603646,
+    "wof:lastmodified":1582314100,
     "wof:name":"Oranjestad",
     "wof:parent_id":85667489,
     "wof:placetype":"locality",
