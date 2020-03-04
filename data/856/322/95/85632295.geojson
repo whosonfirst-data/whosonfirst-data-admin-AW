@@ -759,6 +759,11 @@
     ],
     "wof:country":"AW",
     "wof:country_alpha3":"ABW",
+    "wof:geom_alt":[
+        "naturalearth",
+        "quattroshapes",
+        "naturalearth-display-terrestrial-zoom6"
+    ],
     "wof:geomhash":"bbfb7e7591ccf7813cd441ee194207c7",
     "wof:hierarchy":[
         {
@@ -777,7 +782,7 @@
         "eng",
         "spa"
     ],
-    "wof:lastmodified":1566603641,
+    "wof:lastmodified":1582314100,
     "wof:name":"Aruba",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

@@ -73,6 +73,10 @@
         "wk:page":"Barcelona, Aruba"
     },
     "wof:country":"AW",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"45d7719848e29f20a3f836c7cf9d7f5c",
     "wof:hierarchy":[
         {
@@ -87,7 +91,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566603641,
+    "wof:lastmodified":1582314100,
     "wof:name":"Barcelona",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
