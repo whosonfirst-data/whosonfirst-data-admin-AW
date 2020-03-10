@@ -735,9 +735,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Aruba",
-        "digitalenvoy:country_code":[
-            533
-        ],
+        "digitalenvoy:country_code":533,
         "fb:id":"en.aruba",
         "fifa:id":"ARU",
         "fips:code":"AA",
@@ -785,7 +783,7 @@
         "eng",
         "spa"
     ],
-    "wof:lastmodified":1583529066,
+    "wof:lastmodified":1583797269,
     "wof:name":"Aruba",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
