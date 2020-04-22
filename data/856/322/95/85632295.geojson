@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015655,
-    "geom:area_square_m":188982910.254627,
+    "geom:area_square_m":188982965.564072,
     "geom:bbox":"-70.064763,12.411672,-69.865925,12.624617",
     "geom:latitude":12.509023,
     "geom:longitude":-69.971047,
@@ -150,6 +150,12 @@
     "name:ell_x_preferred":[
         "\u0391\u03c1\u03bf\u03cd\u03bc\u03c0\u03b1"
     ],
+    "name:eng_ca_x_preferred":[
+        "Aruba"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Aruba"
+    ],
     "name:eng_x_preferred":[
         "Aruba"
     ],
@@ -197,6 +203,9 @@
         "Aruuba"
     ],
     "name:gag_x_preferred":[
+        "Aruba"
+    ],
+    "name:gcr_x_preferred":[
         "Aruba"
     ],
     "name:gle_x_preferred":[
@@ -497,6 +506,9 @@
     "name:sqi_x_preferred":[
         "Aruba"
     ],
+    "name:srd_x_preferred":[
+        "Aruba"
+    ],
     "name:srn_x_preferred":[
         "Aruba"
     ],
@@ -566,6 +578,9 @@
     "name:wuu_x_preferred":[
         "\u963f\u9c81\u5df4"
     ],
+    "name:xmf_x_preferred":[
+        "\u10d0\u10e0\u10e3\u10d1\u10d0"
+    ],
     "name:yor_x_preferred":[
         "\u00c0r\u00fab\u00e0"
     ],
@@ -574,6 +589,9 @@
     ],
     "name:yue_x_preferred":[
         "\u963f\u9b6f\u5df4\u5cf6"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u963f\u9c81\u5df4"
     ],
     "name:zho_min_nan_x_preferred":[
         "Aruba"
@@ -783,7 +801,7 @@
         "eng",
         "spa"
     ],
-    "wof:lastmodified":1583797269,
+    "wof:lastmodified":1587427896,
     "wof:name":"Aruba",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
