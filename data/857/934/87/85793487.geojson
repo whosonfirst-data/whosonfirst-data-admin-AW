@@ -30,6 +30,9 @@
     "name:eng_x_preferred":[
         "Barcelona"
     ],
+    "name:hun_x_preferred":[
+        "Barcelona"
+    ],
     "name:nld_x_preferred":[
         "Barcelona"
     ],
@@ -91,7 +94,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1582314100,
+    "wof:lastmodified":1636494850,
     "wof:name":"Barcelona",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

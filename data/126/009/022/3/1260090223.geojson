@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u062c\u0627\u0645\u0627\u0646\u0648\u062a\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u099c\u09be\u09ae\u09be\u09a8\u09cb\u099f\u09be"
+    ],
     "name:bul_x_preferred":[
         "\u042f\u043c\u0430\u043d\u043e\u0442\u0430"
     ],
@@ -41,11 +47,35 @@
     "name:deu_x_preferred":[
         "Jamanota"
     ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b6\u03b1\u03bc\u03b1\u03bd\u03cc\u03c4\u03b1"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0627\u0645\u0627\u0646\u0648\u062a\u0627"
+    ],
     "name:fra_x_preferred":[
         "Mont Jamanota"
     ],
     "name:fry_x_preferred":[
         "Jamanota"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2'\u05de\u05d0\u05e0\u05d5\u05d8\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u091c\u092e\u0928\u094b\u091f\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Jamanota"
+    ],
+    "name:ind_x_preferred":[
+        "Jamanota"
+    ],
+    "name:ita_x_preferred":[
+        "Jamanota"
+    ],
+    "name:kor_x_preferred":[
+        "\uc790\ub9c8\ub178\ud0c0"
     ],
     "name:lit_x_preferred":[
         "Jamanota"
@@ -62,6 +92,9 @@
     "name:pol_x_preferred":[
         "Jamanota"
     ],
+    "name:por_x_preferred":[
+        "Jamanota"
+    ],
     "name:rus_x_preferred":[
         "\u042f\u043c\u0430\u043d\u043e\u0442\u0430"
     ],
@@ -71,8 +104,17 @@
     "name:swe_x_preferred":[
         "Sero Jamanota"
     ],
+    "name:tur_x_preferred":[
+        "Jamanota"
+    ],
     "name:ukr_x_preferred":[
         "\u042f\u043c\u0430\u043d\u043e\u0442\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0627\u0645\u0627\u0646\u0648\u0679\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Jamanota"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -96,7 +138,7 @@
         }
     ],
     "wof:id":1260090223,
-    "wof:lastmodified":1566603643,
+    "wof:lastmodified":1636494850,
     "wof:name":"Jamanota",
     "wof:parent_id":85667489,
     "wof:placetype":"locality",
