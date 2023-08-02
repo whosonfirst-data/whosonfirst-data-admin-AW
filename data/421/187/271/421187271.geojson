@@ -23,6 +23,9 @@
     "name:nld_x_preferred":[
         "Fontein"
     ],
+    "name:pap_x_preferred":[
+        "Fontein"
+    ],
     "qs:gn_country":"AW",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3577209,
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":421187271,
-    "wof:lastmodified":1566603645,
+    "wof:lastmodified":1690854307,
     "wof:name":"Fontein",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

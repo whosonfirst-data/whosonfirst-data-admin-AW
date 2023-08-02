@@ -23,6 +23,9 @@
     "name:nld_x_preferred":[
         "Bringamosa"
     ],
+    "name:pap_x_preferred":[
+        "Bringamosa"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":421199779,
-    "wof:lastmodified":1566603645,
+    "wof:lastmodified":1690854307,
     "wof:name":"Bringamosa",
     "wof:parent_id":85667489,
     "wof:placetype":"locality",

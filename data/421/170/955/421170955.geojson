@@ -26,6 +26,9 @@
     "name:nld_x_preferred":[
         "Cashero"
     ],
+    "name:pap_x_preferred":[
+        "Cashero"
+    ],
     "name:swe_x_preferred":[
         "Cashero"
     ],
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":421170955,
-    "wof:lastmodified":1566603645,
+    "wof:lastmodified":1690854308,
     "wof:name":"Cashero",
     "wof:parent_id":85667489,
     "wof:placetype":"locality",

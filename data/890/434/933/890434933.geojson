@@ -31,6 +31,9 @@
     "name:nno_x_preferred":[
         "Angochi"
     ],
+    "name:pap_x_preferred":[
+        "Angochi"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u043d\u0433\u043e\u043a\u0438"
     ],
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":890434933,
-    "wof:lastmodified":1566603646,
+    "wof:lastmodified":1690854308,
     "wof:name":"Angochi",
     "wof:parent_id":85667489,
     "wof:placetype":"locality",
