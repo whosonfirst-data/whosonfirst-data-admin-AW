@@ -39,6 +39,9 @@
     "name:amh_x_preferred":[
         "\u12a0\u1229\u1263"
     ],
+    "name:ang_x_preferred":[
+        "Aruba"
+    ],
     "name:ara_x_preferred":[
         "\u0623\u0631\u0648\u0628\u0627"
     ],
@@ -56,6 +59,9 @@
     ],
     "name:ast_x_preferred":[
         "Aruba"
+    ],
+    "name:awa_x_preferred":[
+        "\u0905\u0930\u0942\u092c\u093e"
     ],
     "name:azb_x_preferred":[
         "\u0622\u0631\u0648\u0628\u0627"
@@ -136,6 +142,9 @@
         "Aruba"
     ],
     "name:deu_x_preferred":[
+        "Aruba"
+    ],
+    "name:diq_x_preferred":[
         "Aruba"
     ],
     "name:div_x_preferred":[
@@ -219,6 +228,9 @@
     ],
     "name:gsw_x_preferred":[
         "Aruba"
+    ],
+    "name:guc_x_preferred":[
+        "Aruuwa"
     ],
     "name:guj_x_preferred":[
         "\u0a85\u0ab0\u0ac1\u0aac\u0abe"
@@ -323,6 +335,9 @@
     "name:lao_x_preferred":[
         "\u0ead\u0eb2\u0ea5\u0eb9\u0e9a\u0eb2"
     ],
+    "name:lao_x_variant":[
+        "\u0ead\u0eb2\u0ea3\u0eb9\u0e9a\u0eb2"
+    ],
     "name:lat_x_preferred":[
         "Aruba"
     ],
@@ -344,6 +359,9 @@
     "name:lit_x_preferred":[
         "Aruba"
     ],
+    "name:lld_x_preferred":[
+        "Aruba"
+    ],
     "name:lmo_x_preferred":[
         "Aruba"
     ],
@@ -354,6 +372,9 @@
         "Aruba"
     ],
     "name:lug_x_preferred":[
+        "Aruba"
+    ],
+    "name:mad_x_preferred":[
         "Aruba"
     ],
     "name:mal_x_preferred":[
@@ -376,6 +397,9 @@
     ],
     "name:mlt_x_preferred":[
         "Aruba"
+    ],
+    "name:mni_x_preferred":[
+        "\uabd1\uabd4\uabe8\uabd5\uabe5"
     ],
     "name:mon_x_preferred":[
         "\u0410\u0440\u0443\u0431\u0430"
@@ -478,6 +502,9 @@
     ],
     "name:sgs_x_preferred":[
         "Aruba"
+    ],
+    "name:shn_x_preferred":[
+        "\u1022\u1083\u1087\u101b\u1030\u1038\u1015\u1083\u1038"
     ],
     "name:sin_x_preferred":[
         "\u0d85\u0dbb\u0dd4\u0db6\u0dcf\u0dc0"
@@ -589,6 +616,9 @@
     ],
     "name:yue_x_preferred":[
         "\u963f\u9b6f\u5df4\u5cf6"
+    ],
+    "name:zea_x_preferred":[
+        "Aruba"
     ],
     "name:zho_cn_x_preferred":[
         "\u963f\u9c81\u5df4"
@@ -866,7 +896,7 @@
         "eng",
         "spa"
     ],
-    "wof:lastmodified":1617827371,
+    "wof:lastmodified":1690854307,
     "wof:name":"Aruba",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
