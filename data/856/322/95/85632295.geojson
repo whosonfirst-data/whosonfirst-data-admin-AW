@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015655,
-    "geom:area_square_m":188982965.564072,
+    "geom:area_square_m":188982965.564317,
     "geom:bbox":"-70.064763,12.411672,-69.865925,12.624617",
     "geom:latitude":12.509023,
     "geom:longitude":-69.971047,
@@ -13,6 +13,9 @@
     "iso:country":"AW",
     "itu:country_code":[
         "297"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "AW"
@@ -822,7 +825,8 @@
     ],
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"naturalearth",
+    "src:population_year":"2019",
     "statoids:dial":"297",
     "statoids:ds":"AW",
     "statoids:fifa":"ARU",
@@ -878,7 +882,7 @@
         "quattroshapes",
         "naturalearth-display-terrestrial-zoom6"
     ],
-    "wof:geomhash":"8a6ffdd58ff794cdf30df612f544febb",
+    "wof:geomhash":"f95c99ef52cd48e287958aa6ab238959",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -896,12 +900,12 @@
         "eng",
         "spa"
     ],
-    "wof:lastmodified":1690854307,
+    "wof:lastmodified":1694492044,
     "wof:name":"Aruba",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
-    "wof:population":71566,
-    "wof:population_rank":8,
+    "wof:population":106314,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-aw",
     "wof:shortcode":"AW",
     "wof:superseded_by":[],
