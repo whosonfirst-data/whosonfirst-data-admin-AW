@@ -861,6 +861,7 @@
         "hasc:id":"AW",
         "icao:code":"P4",
         "ioc:id":"ARU",
+        "iso:code":"AW",
         "itu:id":"ABW",
         "m49:code":"533",
         "marc:id":"aw",
@@ -872,6 +873,7 @@
         "wd:id":"Q21203",
         "wmo:id":"NU"
     },
+    "wof:concordances_official":"iso:code",
     "wof:coterminous":[
         85667489
     ],
@@ -900,7 +902,7 @@
         "eng",
         "spa"
     ],
-    "wof:lastmodified":1694639499,
+    "wof:lastmodified":1695881153,
     "wof:name":"Aruba",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
