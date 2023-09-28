@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014119,
-    "geom:area_square_m":170433039.957067,
+    "geom:area_square_m":170433039.957081,
     "geom:bbox":"-70.0624080067,12.4176699889,-69.8768204415,12.6321475284",
     "geom:latitude":12.516935,
     "geom:longitude":-69.974201,
@@ -624,13 +624,15 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23424736,
-        "hasc:id":"AW.AA"
+        "hasc:id":"AW.AA",
+        "iso:code_pseudo":"AW"
     },
+    "wof:concordances_official":"iso:code_pseudo",
     "wof:coterminous":[
         85632295
     ],
     "wof:country":"AW",
-    "wof:geomhash":"f481ed8b3aef56c98bb3ac26b08d2b6b",
+    "wof:geomhash":"7db273f832c9ae3038bb7617861b2b97",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -647,7 +649,7 @@
         "nld",
         "pap"
     ],
-    "wof:lastmodified":1566603641,
+    "wof:lastmodified":1695884324,
     "wof:name":"Aruba",
     "wof:parent_id":85632295,
     "wof:placetype":"region",
